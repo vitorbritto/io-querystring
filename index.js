@@ -51,6 +51,3 @@
     window.ioQuery = ioQuery;
 
 })(window, document);
-
-
-ioQuery.init(window.location.href);
